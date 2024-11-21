@@ -8,4 +8,4 @@ It is used to visualize the connections between objects in a network. By groupin
 ## Dragging node
 Each node can be dragged. 
 ## Pinning nodes
-When you double click on a node, it pins the node’s position such that it will not be modified by the graph layout algorithm (note: pinned nodes can still be dragged around by the user but they will remain at their positions otherwise). Node pinning is an effective interaction technique to help users spatially organize nodes during graph exploration. Double clicking a pinned node should unpin (unfreeze) its position and unmark it.
+When you double click on a node, it pins the node’s position such that it will not be modified by the graph layout algorithm. Double clicking a pinned node should unpin (unfreeze) its position and unmark it.
